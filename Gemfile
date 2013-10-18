@@ -22,6 +22,7 @@ gem 'haml-rails', '0.4'
 gem 'mongoid', '3.1.5'
 gem 'mongo', '1.9.2'
 gem 'bson_ext', '1.9.2'
+gem 'scorm'
 
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
